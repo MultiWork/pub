@@ -976,7 +976,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jill-final-foto-600x752-45.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jill-final-foto-600x752-83.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -992,7 +992,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/camille-final-foto-600x752-55.jpg",
+              "src": "@PROJECT_PATH@/assets/images/camille-final-foto-600x752-91.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1008,10 +1008,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/juliette-final-foto-600x752-40.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Juliette Moretus",
@@ -1020,7 +1024,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/eleonore-final-foto-600x751-47.jpg",
+              "src": "@PROJECT_PATH@/assets/images/eleonore-final-foto-600x751-64.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
