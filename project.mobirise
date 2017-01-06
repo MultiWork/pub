@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "wieiswie.html",
+    "currentPage": "inspiratie.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 87,
+    "uniqCompNum": 90,
     "versionPublish": "3.9.2",
     "publishType": "local",
     "publishPath": "file:///Users/camillemarchand/Desktop/MOBISRISE%20lokaal",
@@ -2121,7 +2121,7 @@
             "showMeta": true
           },
           "title": "Uitwerking",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "Camille Marchand - 2/01/2017"
         },
         {
           "_tags": [
@@ -2134,8 +2134,36 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "Voor de uitwerking zijn we in eerste instantie op zoek gegaan naar de verschillende opties die we hadden qua materialisatie. Zoals de plannen hieronder tonen waren we op zoek naar een stevig, niet te zwaar materiaal. Onze hoofdvoorwaarde was dat het zo onopvallend mogelijk zou zijn voor de aandacht niet van de foto af te leiden. We hebben even gedacht aan staal maar kenden niemand dat dat zou kunnen bewerken dus dat idee was snel van tafel. Verder hebben we nog gekeken naar kleurloze PETG, maar daar hing een te hoog prijskaartje aan. Uiteindelijk hebben we gekozen voor simpele houten keepers die we via kennissen hebben kunnen bemachtigen.&nbsp;",
+          "text2": "<p>De opbouw is zeer simpel, we hebben in hout de kaders gemaakt op maat van de foto's. De hoeken hebben we verbonden met een halfhoutse keepverbinding, en zodat het zou blijven staan hebben we gekozen om onder de kaders soort van ski's te bevestigen. De tekening hieronder maakt het iets duidelijker.&nbsp;</p><p>De foto's zelf hebben we laten afdrukken op PVC. De plaat is 5 mm dik en zorgt voor stevigheid van de foto.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2h",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bouwplannen2-bewerkt-1400x989-13.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
@@ -2151,76 +2179,83 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen1-2000x1500-16-2000x1500-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen1-2000x1500-16.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen2-2000x1500-92-2000x1500-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen2-2000x1500-92.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen-3-2000x1500-85-2000x1500-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen-3-2000x1500-85.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding1-2000x1500-73-2000x1500-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding1-2000x1500-73.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding2-2000x1500-24-2000x1500-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding2-2000x1500-24.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding3-2000x1500-55-2000x1500-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding3-2000x1500-55.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding4-2000x1500-33-2000x1500-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding4-2000x1500-33.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding5-2000x1500-53-2000x1500-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding5-2000x1500-53.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
@@ -2405,7 +2440,7 @@
           },
           "title": "Felice Varini",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VARINI</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VARINI</a>"
         },
         {
           "_styles": {
