@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "inspiratie.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1476,7 +1476,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Doordat onze opstelling vooral draait om de verschillende lagen van de foto's, zijn we op onderzoek gegaan naar de verschillende lagen in de maatschappij. Wat ons erg aansprak is het verschil in verschillende culturen, de westerse cultuur tegenover een afrikaanse stam bijvoorbeeld. We zijn op zoek gegaan naar verschillende beelden van andere fotografen als bron van inspiratie. Enkelen onder ons hebben reizen gemaakt naar verschillende delen van de wereld en daar enorm krachtige foto's gemaakt, die voor zich spreken op vlak van verschil in culturen.&nbsp;</p>",
-          "text2": "We hebben dan de keuze gemaakt om ons vooral te focussen op&nbsp;"
+          "text2": "<p>We hebben dan de keuze gemaakt om ons vooral te focussen op 2 totaal tegengestelde culturen, en de mensen die daarbij in beeld komen. Daar zie je het grootste verschil, in hun klederdracht, de handelingen die ze uitvoeren, de plekken waar ze zich bevinden.&nbsp;</p><p>Voor ons eerste onderzoek hebben we verschillende foto's gekozen die we zelf genomen hebben. Het kleine probleem dat we hadden is dat we enkel foto's hadden van Afrika, en dat is niet voldoende voor hetgeen we willen bereiken. We moeten dus op zoek naar foto's van andere culturen, die het tegenovergestelde vormen.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -2404,8 +2404,8 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/felice-varini-bewerkt-2000x1122-14.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/varini-achtergrond1-2000x1497-67.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2490,76 +2490,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/varini1-2000x1497-6-2000x1497-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/varini1-2000x1497-6.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/varini2-2000x1500-85-2000x1500-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/varini2-2000x1500-85.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/varini4-2000x1497-85-2000x1497-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/varini4-2000x1497-85.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/varini3-2000x1492-62-2000x1492-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/varini3-2000x1492-62.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
