@@ -590,7 +590,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Begeleiding Michel Corthaut en Philip Theys",
+          "title": "Eerste begeleiding Michel Corthaut en Philip Theys",
           "meta": "Camille Marchand - 4/12/2016"
         },
         {
@@ -2394,6 +2394,9 @@
             },
             ".mbr-section-text": {
               "color": "#565656"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2439,7 +2442,7 @@
             }
           },
           "title": "Felice Varini",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "Onze grootste inspiratiebron.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VARINI</a>"
         },
         {
@@ -2460,7 +2463,7 @@
             "showMeta": true
           },
           "title": "Felice Varini&nbsp;",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "Camille Marchand - 26/12/2016"
         },
         {
           "_tags": [
@@ -2473,8 +2476,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>Onze grootste inspiratiebron voor dit project is de kunstenaar Felice Varini. Hij is voornamelijk gekend voor zijn geometrische persepectief werken die zich bevinden in openbare ruimtes zoals op muren binnen of buiten of in het straatbeeld. Het typische aan zijn werken is dat de volledige vorm altijd maar vanaf 1 punt te zien is. Als men op een ander standpunt staat, ziet men enkel fragmenten van de geometrische vormen. In het filmpje hierboven is heel duidelijk te zien hoe hij werkt met de projecties van de gekozen vorm op de site, en zo de schaduwen en lijnen begint af te plakken met tape.&nbsp;</p>",
+          "text2": "<p>Wat ons enorm boeide in zijn werk is hoe we vanuit 1 punt het volledige perfecte beeld zien&nbsp;</p>"
         },
         {
           "_tags": [
