@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "constructie onderzoek.html",
+    "currentPage": "product.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -162,9 +162,14 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "LAYERS",
-          "text": "Jill Goetstouwers - Camille Marchand - <br>Juliette Moretus - Eleonore van Bavel",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "<span style=\"font-weight: normal;\">LAYERS</span>",
+          "text": "Jill Goetstouwers - Camille Marchand &nbsp;<br>Juliette Moretus - Eleonore van Bavel",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -316,10 +321,10 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": "1",
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "Vooronderzoek naar schaduwen",
+          "title": "<span style=\"font-weight: normal;\">Vooronderzoek naar schaduwen</span>",
           "meta": "Camille Marchand - 4/12/2016"
         },
         {
@@ -329,14 +334,16 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "content1-z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#ffffff"
           },
           "text": "<p>Aangezien we iets wilden doen rond innerlijk/uiterlijk en daarbij met schaduwen werken, zijn we gaan kijken hoe dat de schaduwen het object anders uitbeelden en vaak een zeer vervormd beeld geven. We zijn hiervoor de stad ingetrokken en hebben voornamelijk beelden gemaakt van schaduwen die we tegenkwamen in publieke ruimtes. Deze foto's geven een goed beeld van hoe de schaduw het object zeer vervormd weergeeft. Als je enkel de schaduw zou zien zou je al moeten raden wat het object is.&nbsp;</p>"
         },
@@ -398,7 +405,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -445,7 +452,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -590,7 +597,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Eerste begeleiding Michel Corthaut en Philip Theys",
+          "title": "<span style=\"font-weight: normal;\">Eerste feedback Michel Corthaut en Philip Theys</span>",
           "meta": "Camille Marchand - 4/12/2016"
         },
         {
@@ -605,7 +612,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p>We zijn dan met onze brainstormsessies en foto's op begeleiding geweest bij Corthaut en Theys en hebben hun uitgelegd dat we verder willen gaan op dat contrast innerlijk/uiterlijk en dat we dat wouden weegeven door met schaduwen van objecten te spelen of zelf een installatie te maken waar men voor kan gaan staan en zo verschillende schaduwen kan zien. Maar tijdens de begeleiding zijn we daar vanaf gestapt omdat het te moeilijk is om met lichtbronnen en dus ook schaduwen te werken omdat je dan een donkere kamer en dure apparatuur nodig hebt.&nbsp;</p>",
-          "text2": "<p>We zijn dan teruggekeerd naar ons eerste idee van een 2D beeld een 3D beeld te maken. Corthaut was voorstaander van een foto nemen en die in fragmenten te verdelen, en dan zo elk fragment in lagen achter elkaar plaatsen zodat je een 3D opstelling krijgt.&nbsp;</p><p>Het idee is nu dat de foto in verschillende lagen wordt verdeeld en zo worden geplaatst dat de volledige foto enkel te zien is als men er exact voorstaat in het juiste perspectief. Vanuit andere standpunten ziet men alleen maar delen van de foto.</p><p><br></p><p>Aangezien dat we van ons idee over met schaduwen werken zijn afgestapt, zijn we ook afgeweken van het innerlijk/uiterlijk contrast.&nbsp;</p>"
+          "text2": "<p>We zijn dan teruggekeerd naar ons eerste idee van een 2D beeld een 3D beeld te maken. Corthaut was voorstaander van een foto nemen en die in fragmenten te verdelen, en dan zo elk fragment in lagen achter elkaar plaatsen zodat je een 3D opstelling krijgt.&nbsp;</p><p>Het idee is nu dat de foto in verschillende lagen wordt verdeeld en zo worden geplaatst dat de volledige foto enkel te zien is als men er exact voorstaat in het juiste perspectief. Vanuit andere standpunten ziet men alleen maar delen van de foto.</p><p><br></p><p>Aangezien dat we van ons idee over met schaduwen werken zijn afgestapt, zijn we ook afgeweken van het innerlijk/uiterlijk contrast.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -631,7 +644,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Eerste onderzoek met foto's",
+          "title": "<span style=\"font-weight: normal;\">Eerste onderzoek met foto's</span>",
           "meta": "6/12/2016"
         },
         {
@@ -646,7 +659,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p>We hebben met enkele foto's een eerste onderzoek gedaan. We hebben deze foto's in stukken gesneden en dan op verschillende afstanden van elkaar gehouden. Zo zijn we tot de ontdekking gekomen dat we toch niet helemaal de juiste foto's hadden gekozen. Ons oorspronkelijke idee was om de aparte stukjes ook telkens voor zich te laten spreken. Maar zoals we hier met het portret van die vrouw geprobeerd hebben, is dat niet volledig gelukt.&nbsp;</p>",
-          "text2": "<p>We hebben ook gemerkt dat we stukken van de foto's gaan moeten vergroten of verkleinen, dit afhankelijk van de afstand van de stukjes ten opzichte van het camerastandpunt, zodat het totaalbeeld weer klopt. Nu werd het wat misvormd doordat er sommige stukken verder naar voor of achter stonden. Dus moeten we op zoek naar nieuwe foto's en de juiste techniek om dit te kunnen uitwerken.&nbsp;</p>"
+          "text2": "<p>We hebben ook gemerkt dat we stukken van de foto's gaan moeten vergroten of verkleinen, dit afhankelijk van de afstand van de stukjes ten opzichte van het camerastandpunt, zodat het totaalbeeld weer klopt. Nu werd het wat misvormd doordat er sommige stukken verder naar voor of achter stonden. Dus moeten we op zoek naar nieuwe foto's en de juiste techniek om dit te kunnen uitwerken.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
@@ -948,7 +967,9 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "features3-1h",
@@ -986,7 +1007,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Jill Goetstouwers",
+          "title1": "<span style=\"font-weight: normal;\">Jill Goetstouwers</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Mijn naam is Jill Goetstouwers. Ik ben geboren in het jaar 1995 en dus 21 jaar oud. Ik studeer Interieur Architectuur aan de UA en zit in mijn 3de jaar. In mijn vrije tijd ben ik veel bezig met schoolwerk. Ook ben ik zeer geïnteresseerd in fotografie en laat ik me inspireren door kunstenaars en hun kunst.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1002,7 +1023,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Camille Marchand",
+          "title2": "<span style=\"font-weight: normal;\">Camille Marchand</span>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Ik ben Camille Marchand, 20 jaar. Ik zit in mijn derde jaar bachelor Interieurarchitectuur. Naast dat bezoek ik graag eens een museum of ga ik graag eens op citytrip. Ik hoop de komende jaren veel rond te reizen en van de wereld te zien, en dat toch op een manier te kunnen combineren met mijn job.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1018,7 +1039,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Juliette Moretus",
+          "title3": "<span style=\"font-weight: normal;\">Juliette Moretus</span>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Mijn naam is Juliette. Ik ben 23 jaar oud en zit in mij derde jaar interieurarchitectuur. Naast mijn studies reis ik heel graag. Ik bezoek graag de architectuur in elk land, die me dan inspireert voor mijn ontwerpen. Ik hoop de komende jaren nog veel bij te leren om uiteindelijk zelfstandige interieurarchitecte te worden.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1034,7 +1055,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Eléonore van Bavel",
+          "title4": "<span style=\"font-weight: normal;\">Eléonore van Bavel</span>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mijn naam is Eléonore. Ik studeer interieurarchitectuur maar ben ook voornamelijk geïnteresseerd in graphic design en hand lettering. Verder ben ik ook veel bezig met mode. Graag zou ik later deze interesses verwerken in mijn job.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1199,7 +1220,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Tweede onderzoek met foto's",
+          "title": "<span style=\"font-weight: normal;\">Tweede onderzoek met foto's</span>",
           "meta": "Camille Marchand 12/12/2016"
         },
         {
@@ -1209,7 +1230,9 @@
           "_name": "content6",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "content6-1m",
@@ -1331,7 +1354,9 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "17px"
+              "font-size": "17px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "content1-2e",
@@ -1340,7 +1365,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i>De eerste rij foto's hieronder zijn screenshots van ons Vectorworks bestand waarmee we de afstand en grootte van de fotodelen hebben berekend.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De tweede rij foto's daaronder zijn foto's genomen door Eléonore Van Bavel, tijdens ons onderzoek.&nbsp;</span></i></p>"
+          "text": "<p><i>De eerste rij foto's hieronder zijn screenshots van ons Vectorworks bestand waarmee we de afstand en grootte van de fotodelen hebben berekend.&nbsp;</i></p><p><i><span style=\"font-size: 1.07rem; line-height: 1.5;\">De tweede rij foto's daaronder zijn foto's genomen door Eléonore Van Bavel, tijdens ons onderzoek.&nbsp;</span></i></p>"
         }
       ]
     },
@@ -1478,7 +1503,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "De twee foto's",
+          "title": "<span style=\"font-weight: normal;\">De twee foto's</span>",
           "meta": "Camille Marchand - 2/01/2017"
         },
         {
@@ -1492,7 +1517,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We hebben specifiek voor deze twee foto's gekozen om verschillende redenen. &nbsp;Eerst en vooral wouden we dat de twee foto's een alledaags tafereel toonde van twee totaal verschillende culturen. Links zie je een beeld van het bekendste kruispunt, dat zich in Shibuya bevindt, rechts is een foto van een markt in India. We hebben geprobeerd om toch enkele aspecten in de foto's met elkaar te laten overeen komen, de mensenmassa bijvoorbeeld, of het feit dat er ook gebouwen in beide foto's terug te vinden zijn.&nbsp;</p>"
+          "text": "<p>We hebben specifiek voor deze twee foto's gekozen om verschillende redenen. &nbsp;Eerst en vooral wouden we dat de twee foto's een alledaags tafereel toonde van twee totaal verschillende culturen. Links zie je een beeld van het bekendste kruispunt, dat zich op het Hachiko plein in Shibuya bevindt, rechts is een foto van de Mullik Ghat bloemenmarkt in India. We hebben geprobeerd om toch enkele aspecten in de foto's met elkaar te laten overeen komen, de mensenmassa bijvoorbeeld, of het feit dat er ook gebouwen in beide foto's terug te vinden zijn.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1673,7 +1704,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.4",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -1703,7 +1734,7 @@
               "size": 0
             }
           },
-          "title": "CONCEPT",
+          "title": "<span style=\"font-weight: normal;\">CONCEPT</span>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1724,7 +1755,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Van 2D naar 3D",
+          "title": "<span style=\"font-weight: normal;\">Van 2D naar 3D</span>",
           "meta": "Eléonore van Bavel&nbsp;"
         },
         {
@@ -1739,7 +1770,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Het ontwerp ‘layers’ is ontstaan vanuit de idee dat maatschappijen tegelijkertijd zeer gelijkend maar ook zeer tegengesteld kunnen zijn. We willen aantonen dat mensen, ondanks ze aan de andere kant van onze planeet wonen, toch dezelfde gewoontes en rituelen hebben. Dit wilt niet zeggen dat zij die op dezelfde manier uitvoeren. Om dit aan te tonen zijn wij op zoek gegaan naar twee beelden die eenzelfde tafereel afbeelden, maar die zich op twee totaal verschillende plaatsen afspelen.&nbsp;</p>",
-          "text2": "<p>Het ene beeld is genomen in Calcutta, het andere in Tokyo. Om de verscheidenheid en gelaagdheid in de maatschappij te duiden zijn deze beelden in vier gedeeld en staan ze op een afstand van elkaar. De uitgesneden beelden zeggen niet zoveel op zich, maar vanuit één bepaald standpunt kan je meteen het geheel zien. Draai je je dan klokslag om, zie je letterlijk de andere kant van de wereld. Op deze manier willen wij graag de schoonheid van de diversiteit aantonen die verschillende maatschappijen met zich meedragen.</p>"
+          "text2": "<p>Het ene beeld is genomen in Calcutta, het andere in Tokyo. Om de verscheidenheid en gelaagdheid in de maatschappij te duiden zijn deze beelden in vier gedeeld en staan ze op een afstand van elkaar. De uitgesneden beelden zeggen niet zoveel op zich, maar vanuit één bepaald standpunt kan je meteen het geheel zien. Draai je je dan klokslag om, zie je letterlijk de andere kant van de wereld. Op deze manier willen wij graag de schoonheid van de diversiteit aantonen die verschillende maatschappijen met zich meedragen.</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -1877,7 +1914,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Uitwerking",
+          "title": "<span style=\"font-weight: normal;\">Uitwerking</span>",
           "meta": "Camille Marchand - 2/01/2017"
         },
         {
@@ -1892,7 +1929,13 @@
             "bgColor": "#fff"
           },
           "text1": "Voor de uitwerking zijn we in eerste instantie op zoek gegaan naar de verschillende opties die we hadden qua materialisatie. Zoals de plannen hieronder tonen waren we op zoek naar een stevig, niet te zwaar materiaal. Onze hoofdvoorwaarde was dat het zo onopvallend mogelijk zou zijn voor de aandacht niet van de foto af te leiden. We hebben even gedacht aan staal maar kenden niemand dat dat zou kunnen bewerken dus dat idee was snel van tafel. Verder hebben we nog gekeken naar kleurloze PETG, maar daar hing een te hoog prijskaartje aan. Uiteindelijk hebben we gekozen voor simpele houten keepers die we via kennissen hebben kunnen bemachtigen.&nbsp;",
-          "text2": "<p>De opbouw is zeer simpel, we hebben in hout de kaders gemaakt op maat van de foto's. De hoeken hebben we verbonden met een halfhoutse keepverbinding, en zodat het zou blijven staan hebben we gekozen om onder de kaders soort van ski's te bevestigen. De tekening hieronder maakt het iets duidelijker.&nbsp;</p><p>Oorspronkelijk hadden we een andere opbouw, met driehoeken langs de zijkanten van de kaders voor versteviging, maar we zijn er vrij snel achtergekomen dat die constructie veel te zwaar was.&nbsp;</p><p>De foto's zelf hebben we laten afdrukken op PVC. De plaat is 5 mm dik en zorgt voor stevigheid van de foto.&nbsp;</p>"
+          "text2": "<p>De opbouw is zeer simpel, we hebben in hout de kaders gemaakt op maat van de foto's. De hoeken hebben we verbonden met een halfhoutse keepverbinding, en zodat het zou blijven staan hebben we gekozen om onder de kaders soort van ski's te bevestigen. De tekening hieronder maakt het iets duidelijker.&nbsp;</p><p>Oorspronkelijk hadden we een andere opbouw, met driehoeken langs de zijkanten van de kaders voor versteviging, maar we zijn er vrij snel achtergekomen dat die constructie veel te zwaar was.&nbsp;</p><p>De foto's zelf hebben we laten afdrukken op PVC. De plaat is 5 mm dik en zorgt voor stevigheid van de foto.&nbsp;</p>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -1936,8 +1979,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen1-2000x1500-16-2000x1500-26.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-bouwen1-2000x1500-16.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen1-zw-2000x1500-37-2000x1500-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen1-zw-2000x1500-37.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1946,8 +1989,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen2-2000x1500-92-2000x1500-30.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-bouwen2-2000x1500-92.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen2-zw-2000x1500-58-2000x1500-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen2-zw-2000x1500-58.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1956,18 +1999,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen-3-2000x1500-85-2000x1500-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-bouwen-3-2000x1500-85.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-bouwen3-zw-2000x1500-96-2000x1500-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-bouwen3-zw-2000x1500-96.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding1-2000x1500-73-2000x1500-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-verbinding1-2000x1500-73.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding1-zw-2000x1500-73-2000x1500-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding1-zw-2000x1500-73.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1976,8 +2019,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding2-2000x1500-24-2000x1500-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-verbinding2-2000x1500-24.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding2-zw-2000x1500-92-2000x1500-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding2-zw-2000x1500-92.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1986,8 +2029,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding3-2000x1500-55-2000x1500-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-verbinding3-2000x1500-55.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding3-zw-2000x1500-87-2000x1500-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding3-zw-2000x1500-87.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1996,8 +2039,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding4-2000x1500-33-2000x1500-19.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-verbinding4-2000x1500-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding4-zw-2000x1500-4-2000x1500-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding4-zw-2000x1500-4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2006,10 +2049,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding5-2000x1500-53-2000x1500-40.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto-verbinding5-2000x1500-53.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-verbinding5-zw-2000x1500-96-2000x1500-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-verbinding5-zw-2000x1500-96.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -2198,8 +2241,8 @@
               "size": 0
             }
           },
-          "title": "Felice Varini",
-          "text": "Onze grootste inspiratiebron.&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Felice Varini</span>",
+          "text": "Onze grootste inspiratiebron.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.varini.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VARINI</a>"
         },
         {
@@ -2219,7 +2262,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Felice Varini&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Felice Varini&nbsp;</span>",
           "meta": "Camille Marchand - 26/12/2016"
         },
         {
@@ -2234,7 +2277,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Onze grootste inspiratiebron voor dit project is de kunstenaar Felice Varini. Hij is voornamelijk gekend voor zijn geometrische persepectief werken die zich bevinden in openbare ruimtes zoals op muren binnen of buiten of in het straatbeeld. Het typische aan zijn werken is dat de volledige vorm altijd maar vanaf 1 punt te zien is. Als men op een ander standpunt staat, ziet men enkel fragmenten van de geometrische vormen. In het filmpje hierboven is heel duidelijk te zien hoe hij werkt met de projecties van de gekozen vorm op de site, en zo de schaduwen en lijnen begint af te plakken met tape.&nbsp;</p>",
-          "text2": "<p>Wat ons enorm boeide in zijn werk is hoe we vanuit 1 punt het volledige perfecte beeld zien. Als je naar de foto's kijkt, lijkt het alsof de vorm gewoon op de foto getekend is. Dat boeide ons enorm hoe perfect de vorm uitkomt vanuit 1 enkel standpunt. Voor de rest, als je rondloopt in die ruimte, zie je enkel versnipperede beelden van de geometrische vorm.</p><p>We zijn enorm geïnspireerd geraakt door dat aspect van maar op 1 punt het volledige beeld, en wouden daarmee verder.&nbsp;</p>"
+          "text2": "<p>Wat ons enorm boeide in zijn werk is hoe we vanuit 1 punt het volledige perfecte beeld zien. Als je naar de foto's kijkt, lijkt het alsof de vorm gewoon op de foto getekend is. Dat boeide ons enorm hoe perfect de vorm uitkomt vanuit 1 enkel standpunt. Voor de rest, als je rondloopt in die ruimte, zie je enkel versnipperede beelden van de geometrische vorm.</p><p>We zijn enorm geïnspireerd geraakt door dat aspect van maar op 1 punt het volledige beeld, en wouden daarmee verder.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2432,7 +2481,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Gelaagdheid in de maatschappij",
+          "title": "<span style=\"font-weight: normal;\">Gelaagdheid in de maatschappij</span>",
           "meta": "Camille Marchand - 05/12/2016"
         },
         {
@@ -2447,7 +2496,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Doordat onze opstelling vooral draait om de verschillende lagen van de foto's, zijn we op onderzoek gegaan naar de verschillende lagen in de maatschappij. Wat ons erg aansprak is het verschil in verschillende culturen, de westerse cultuur tegenover een afrikaanse stam bijvoorbeeld. We zijn op zoek gegaan naar verschillende beelden van andere fotografen als bron van inspiratie. Enkelen onder ons hebben reizen gemaakt naar verschillende delen van de wereld en daar enorm krachtige foto's gemaakt, die voor zich spreken op vlak van verschil in culturen.&nbsp;</p>",
-          "text2": "<p>We hebben dan de keuze gemaakt om ons vooral te focussen op 2 totaal tegengestelde culturen, en de mensen die daarbij in beeld komen. Daar zie je het grootste verschil, in hun klederdracht, de handelingen die ze uitvoeren, de plekken waar ze zich bevinden.&nbsp;</p><p>Voor ons eerste onderzoek hebben we verschillende foto's gekozen die we zelf genomen hebben. Het kleine probleem dat we hadden is dat we enkel foto's hadden van Afrika, en dat is niet voldoende voor hetgeen we willen bereiken. We moeten dus op zoek naar foto's van andere culturen, die het tegenovergestelde vormen.&nbsp;</p>"
+          "text2": "<p>We hebben dan de keuze gemaakt om ons vooral te focussen op 2 totaal tegengestelde culturen, en de mensen die daarbij in beeld komen. Daar zie je het grootste verschil, in hun klederdracht, de handelingen die ze uitvoeren, de plekken waar ze zich bevinden.&nbsp;</p><p>Voor ons eerste onderzoek hebben we verschillende foto's gekozen die we zelf genomen hebben. Het kleine probleem dat we hadden is dat we enkel foto's hadden van Afrika, en dat is niet voldoende voor hetgeen we willen bereiken. We moeten dus op zoek naar foto's van andere culturen, die het tegenovergestelde vormen.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2685,7 +2740,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Constructie onderzoek",
+          "title": "<span style=\"font-weight: normal;\">Constructie onderzoek</span>",
           "meta": "Juliette Moretus - 22/12/2016"
         },
         {
@@ -2699,7 +2754,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Na het vinden van ons concept en onze twee foto's zijn we op zoek gegaan naar de beste manier om deze te presenteren.<span style=\"font-size: 1.07rem; line-height: 1.5;\">Dit was een moeilijke opdracht omdat de afmetingen van onze foto's redelijk groot zijn en de constructie daardoor zeer stevig en stabiel moest zijn. Het is ook een vrij hoge constructie, dus we moesten ervoor zorgen dat het mooi recht zou blijven staan. Ook moesten we rekening houden met het feit dat de constructie niet te opvallend mocht zijn, zodat de focus op de foto's ligt. Het moest dus een zo fijn, stevig en stabiel mogelijke constructie zijn. We waren vrij zeker van het feit dat we kaders wouden zetten waar we dan onze foto's op zouden kleven. Deze kaders zouden dan omhoog staan door middel van 'palen' die te de grond zouden komen. Om deze constructie stabiel op de grond te zetten hebben we gebruik gemaakt van schuine steunbalken. Deze zouden beginnen op 2/3 van de gehele hoogte en komen tot de grond. De steunbalken en de 'palen' zouden nog verbonden worden, zodat we een vierkant op de grond hebben en dus extra steun.</span></p>"
+          "text": "<p>Na het vinden van ons concept en onze twee foto's zijn we op zoek gegaan naar de beste manier om deze te presenteren.<span style=\"font-size: 1.07rem; line-height: 1.5;\">Dit was een moeilijke opdracht omdat de afmetingen van onze foto's redelijk groot zijn en de constructie daardoor zeer stevig en stabiel moest zijn. Het is ook een vrij hoge constructie, dus we moesten ervoor zorgen dat het mooi recht zou blijven staan. Ook moesten we rekening houden met het feit dat de constructie niet te opvallend mocht zijn, zodat de focus op de foto's ligt. Het moest dus een zo fijn, stevig en stabiel mogelijke constructie zijn. We waren vrij zeker van het feit dat we kaders wouden zetten waar we dan onze foto's op zouden kleven. Deze kaders zouden dan omhoog staan door middel van 'palen' die te de grond zouden komen. Om deze constructie stabiel op de grond te zetten hebben we gebruik gemaakt van schuine steunbalken. Deze zouden beginnen op 2/3 van de gehele hoogte en komen tot de grond. De steunbalken en de 'palen' zouden nog verbonden worden, zodat we een vierkant op de grond hebben en dus extra steun.</span></p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2751,7 +2812,13 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Dit is een eerste schets van de bouwplannen.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -2874,6 +2941,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2884,10 +2954,10 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "LAYERS",
+          "title": "<span style=\"font-weight: normal;\">LAYERS</span>",
           "meta": ""
         },
         {
@@ -2901,13 +2971,13 @@
           ],
           "_name": "slider2",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "timeout": 5,
             "paddingTop": "1",
             "paddingBottom": 4,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/eindfoto-geheel-zw-2000x1498-14.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2963,7 +3033,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/eindfoto-tokyo-6-2000x1497-78.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2977,7 +3047,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showBullets": true
           },
           "_anchor": "slider2-30"

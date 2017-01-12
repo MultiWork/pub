@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -478,6 +479,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
+#header1-1x .mbr-section-lead {
+  font-size: 18px;
+}
+
 #menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -551,6 +556,7 @@ h6,
 }
 #content1-z P {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 #gallery1-10 .mbr-gallery-item > div > span {
   font-size: 10px;
@@ -558,6 +564,7 @@ h6,
 #gallery1-11 .mbr-gallery-item > div > span {
   font-size: 10px;
 }
+
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -629,9 +636,16 @@ h6,
 #header3-12 .mbr-section-subtitle {
   text-align: center;
 }
+#content6-13 P {
+  font-family: 'Roboto', sans-serif;
+}
+
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
   text-align: center;
+}
+#content6-1s P {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
@@ -700,6 +714,7 @@ h6,
 #menu-19 .close-icon::after {
   background-color: #000000;
 }
+
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -769,7 +784,10 @@ h6,
 }
 #features3-1h P {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
+
+
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -843,11 +861,14 @@ h6,
 }
 #content6-1m P {
   text-align: left;
+  font-family: 'Roboto', sans-serif;
 }
 #content1-2e P {
   text-align: left;
   font-size: 17px;
+  font-family: 'Roboto', sans-serif;
 }
+
 #menu-1t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -919,6 +940,10 @@ h6,
 #header3-2o .mbr-section-subtitle {
   text-align: center;
 }
+#content1-2p P {
+  font-family: 'Roboto', sans-serif;
+}
+
 #menu-1y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -990,6 +1015,10 @@ h6,
 #header3-2v .mbr-section-subtitle {
   text-align: center;
 }
+#content6-22 P {
+  font-family: 'Roboto', sans-serif;
+}
+
 #menu-23 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1061,6 +1090,10 @@ h6,
 #header3-25 .mbr-section-subtitle {
   text-align: center;
 }
+#content6-26 DIV {
+  font-family: 'Roboto', sans-serif;
+}
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1141,6 +1174,10 @@ h6,
 #header3-2c .mbr-section-subtitle {
   text-align: center;
 }
+#content6-29 P {
+  font-family: 'Roboto', sans-serif;
+}
+
 #menu-2i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1212,6 +1249,11 @@ h6,
 #header3-2k .mbr-section-subtitle {
   text-align: center;
 }
+#content6-2l P {
+  font-family: 'Roboto', sans-serif;
+}
+
+
 #menu-2q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1283,6 +1325,12 @@ h6,
 #header3-2s .mbr-section-subtitle {
   text-align: center;
 }
+#content1-2t P {
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box5-2u P {
+  font-family: 'Roboto', sans-serif;
+}
 #menu-2y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1353,6 +1401,9 @@ h6,
 #header3-31 .mbr-section-title,
 #header3-31 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-31 SPAN {
+  color: #000000;
 }
 #slider2-30 .mbr-section-title,
 #slider2-30 .mbr-section-lead {
